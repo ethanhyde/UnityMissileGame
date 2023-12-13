@@ -1,4 +1,4 @@
-# UnityMissileGame
+# Magic Missile Mayhem
 
 ## 🚀 Project Overview:
 Welcome to the repository of "Magic Missile Mayhem," a exciting 3D game developed using Unity during the Spring term of 2023 at the University of Oregon. This game is not just a showcase of interactive entertainment but also a testament to the seamless integration of advanced mathematical concepts and artistic creativity.

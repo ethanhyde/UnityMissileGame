@@ -15,7 +15,7 @@ As the team leader of a talented group of four, I guided and oversaw this projec
 * Diverse and Engaging Effects:
   To enhance the visual appeal and replayability of the game, we incorporated a variety of effects, each designed to enrich the experience.
   
- ##🎮 Game Features:
+ ## 🎮 Game Features:
 "Magic Missile Mayhem" offers players an exhilarating blend of strategy, skill, and a dash of magic. Here's what makes our game stand out:
 
 * Dynamic Gameplay:

@@ -27,4 +27,5 @@ As the team leader of a talented group of four, I guided and oversaw this projec
 * Multiple levels and difficulties
   Play in 3 different levels consisting of 3 different biomes and environments, with each level increasing in difficulty.
 
-## 🔥Join us in this magical adventure and dive into the world of "Magic Missile Mayhem"!
+## 🔥Play the game here!!
+https://simmer.io/@ethanhyde01/magic-missile-mayhem
